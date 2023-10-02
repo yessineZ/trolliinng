@@ -1,0 +1,13 @@
+.imin-isar {
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+}
+
+
+.isar {
+    display:  flex  ;
+    flex-direction: column;
+    
+
+}

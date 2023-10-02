@@ -1,0 +1,30 @@
+.tel {
+    display :flex ; 
+    flex-direction: row ;  
+    justify-content: space-between;
+    margin-top:-10px ;
+}
+
+p {
+    padding-top :0px ;
+}
+
+
+
+.tel-box {
+    padding-top: 15px ;
+    font-size :20px ;
+}
+
+.contact1 {
+    border-bottom: 5px solid yellow;
+    padding-bottom: 10px  ;
+}
+
+
+.imin {
+    background-color: red ;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+}
